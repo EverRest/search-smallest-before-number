@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/smallest-after",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "pavlo.medynskyi",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^10.5"
+  }
+}
